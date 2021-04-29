@@ -6,7 +6,11 @@
 # print(1 > 9)
 # print(3 <= 5)
 # print(False == 0)
+# print('a' != 'b')
 
 # print('True and False', True and False)
 # print('True or False', True or False)
 
+# print("""my
+# multiline
+# string""")
